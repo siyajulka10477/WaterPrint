@@ -107,7 +107,7 @@ $$\text{Total Water Footprint} = \text{Total Virtual Water} + \text{Total Direct
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/siya-43/WaterPrint.git
+   git clone https://github.com/siyajulka10477/WaterPrint.git
    cd WaterPrint
    ```
 
